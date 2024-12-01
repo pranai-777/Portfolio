@@ -480,7 +480,7 @@ body {
   color: #3498db;
 }
 
-@media screen and (max-width:  500px) {
+@media screen and (max-width:  600px) {
   #hero{
     display: flex ;
     flex-direction: column-reverse;
