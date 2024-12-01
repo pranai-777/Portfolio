@@ -140,7 +140,7 @@ header img {
   /* Work Experience Section */
   #work-exp .work-exp-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
   }
   
@@ -177,7 +177,7 @@ header img {
   /* Projects Section */
   #projects .projects-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
   }
   
@@ -244,7 +244,7 @@ header img {
   /* Education Section */
   #education .education-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
   }
   
@@ -365,7 +365,7 @@ body {
 
 .certifications-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 30px;
     justify-items: center;
 }
@@ -478,4 +478,13 @@ body {
 
 .contact-info a:hover {
   color: #3498db;
+}
+
+@media screen and (max-width:  400px) {
+  #hero{
+    display: flex ;
+    flex-direction: column-reverse;
+
+  }
+
 }
