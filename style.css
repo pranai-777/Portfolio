@@ -34,6 +34,14 @@ header img {
     font-size: 1.8rem;
     margin: 0;
   }
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width:6rem;
+    height:6rem;
+  }
 /*
   nav {
     display: flex;
