@@ -34,6 +34,15 @@ header img {
     font-size: 1.8rem;
     margin: 0;
   }
+
+  .navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width:6rem;
+    height:6rem;
+  }
 /*
   nav {
     display: flex;
@@ -147,8 +156,8 @@ header img {
   .work-card {
     background: linear-gradient(145deg, #d8d5d2bf, #1f1f1f);
     padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(7, 7, 7, 0.5);
+    border-radius: 3rem;
+    box-shadow: 0 3rem 6rem rgba(7, 7, 7, 0.5);
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
   }
   
@@ -337,29 +346,33 @@ body {
   left: 0;
   width: 50px; /* Adjust size to match the GIF dimensions */
   height: 50px;
-  background: url('path-to-your-gif.gif') no-repeat center center;
-  background-size: contain;
+  background: url('path-to') no-repeat center center;
+  background-size: contai;
   pointer-events: none; /* Ensure it doesn't block clicks */
   z-index: 10000;
   transform: translate(-50%, -50%);
 }
 /* Certifications Section */
 #certifications {
-    background-color: rgba(194, 173, 173, 0.5);
-    padding: 60px 0;
+  background: #1c1c1c;
+  padding: 15rem 0;
+ 
+    
 }
 
 #certifications .container {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 }
 
 #certifications h2 {
-    font-size: 2.5rem;
     margin-bottom: 30px;
-    color: #7594b4;
-    font-weight: 600;
     /* text-transform: ; */
 }
 
@@ -371,13 +384,16 @@ body {
 }
 
 .certification {
-    background-color: #beb4a6;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(142, 171, 176, 0.1);
+  background: linear-gradient(145deg, #c9e6e8, #1f1f1f);
+  padding: 3rem;
+    border-radius: 2rem;
+    box-shadow: 0 1rem 2rem rgba(142, 171, 176, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     text-align: left;
     width: 100%;
+    align-items: center;
+    justify-content:center ;
+
 }
 
 .certification:hover {
@@ -388,7 +404,7 @@ body {
 .certification h3 {
     font-size: 1.4rem;
     margin-bottom: 10px;
-    color: #3c3c3c;
+    color: #ffffff;
     font-weight: 500;
 }
 
@@ -480,7 +496,7 @@ body {
   color: #3498db;
 }
 
-@media screen and (max-width:  400px) {
+@media screen and (max-width:  500px) {
   #hero{
     display: flex ;
     flex-direction: column-reverse;
@@ -488,3 +504,4 @@ body {
   }
 
 }
+
