@@ -1,54 +1,23 @@
-<div align="center">
-
 # PRANAI TEJA SABBE
 
-### DATA SCIENTIST · AI / ML · DATA ENGINEERING · CLOUD
+### Data Scientist · AI / ML · Data Engineering · Cloud
 
-<p>
-  <i>Turning data into intelligence, and intelligence into impact.</i>
-</p>
-
-<br/>
-
-<a href="https://pranai-7.streamlit.app/">
-  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-C9A45A?style=for-the-badge&logo=vercel&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<a href="https://www.linkedin.com/in/sabbe-pranai-teja/">
-  <img src="https://img.shields.io/badge/LINKEDIN-C9A45A?style=for-the-badge&logo=linkedin&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<a href="https://github.com/pranai-777">
-  <img src="https://img.shields.io/badge/GITHUB-C9A45A?style=for-the-badge&logo=github&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D12&height=100&section=header"/>
-
-</div>
+> Turning data into intelligence, and intelligence into impact.
 
 ---
 
-## ◉ ABOUT
+## About Me
 
-I am a **Data Scientist and Data Engineering professional** focused on building intelligent, scalable, and production-oriented data solutions.
+I am a **Data Scientist and Data Engineering professional** focused on building intelligent, scalable, and practical data solutions.
 
-My work sits at the intersection of:
+My work combines:
 
-```text
-DATA
-  ↓
-ANALYTICS
-  ↓
-MACHINE LEARNING
-  ↓
-AI ENGINEERING
-  ↓
-CLOUD
-  ↓
-BUSINESS IMPACT
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Data Engineering
+- Cloud Computing
+- Data Visualization
 
 I enjoy transforming complex datasets into meaningful insights, developing machine learning solutions, creating interactive analytical applications, and designing data workflows that support real-world decision making.
 
