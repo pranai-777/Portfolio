@@ -1,225 +1,228 @@
-<div align="center">
-
 # PRANAI TEJA SABBE
 
-### DATA SCIENTIST · AI / ML · DATA ENGINEERING · CLOUD
+### Data Scientist · AI / ML · Data Engineering · Cloud
 
-<p>
-  <i>Turning data into intelligence, and intelligence into impact.</i>
-</p>
-
-<br/>
-
-<a href="https://pranai-7.streamlit.app/">
-  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-C9A45A?style=for-the-badge&logo=vercel&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<a href="https://www.linkedin.com/in/sabbe-pranai-teja/">
-  <img src="https://img.shields.io/badge/LINKEDIN-C9A45A?style=for-the-badge&logo=linkedin&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<a href="https://github.com/pranai-777">
-  <img src="https://img.shields.io/badge/GITHUB-C9A45A?style=for-the-badge&logo=github&logoColor=0B0D12&labelColor=0B0D12" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D12&height=100&section=header"/>
-
-</div>
+> Turning data into intelligence, and intelligence into impact.
 
 ---
 
-## ◉ ABOUT
+## About Me
 
-I am a **Data Scientist and Data Engineering professional** focused on building intelligent, scalable, and production-oriented data solutions.
+I am a **Data Scientist and Data Engineering professional** focused on building intelligent, scalable, and practical data solutions.
 
-My work sits at the intersection of:
+My work combines:
 
-```text
-DATA
-  ↓
-ANALYTICS
-  ↓
-MACHINE LEARNING
-  ↓
-AI ENGINEERING
-  ↓
-CLOUD
-  ↓
-BUSINESS IMPACT
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Data Engineering
+- Cloud Computing
+- Data Visualization
 
-I enjoy transforming complex datasets into meaningful insights, developing machine learning solutions, designing analytical dashboards, and building data pipelines that support real-world decision making.
+I enjoy transforming complex datasets into meaningful insights, developing machine learning solutions, creating interactive analytical applications, and designing data workflows that support real-world decision making.
 
-Currently pursuing a Master's in Data Science in Germany, while continuing to develop practical expertise across machine learning, analytics, cloud engineering, and intelligent systems.
-◉ WHAT I BUILD
-| DOMAIN               | FOCUS                                                                 |
-| -------------------- | --------------------------------------------------------------------- |
-| 🧠 Machine Learning  | Predictive modelling, classification, regression, feature engineering |
-| 🤖 AI Engineering    | Deep learning, computer vision, intelligent applications              |
-| 📊 Data Analytics    | Exploratory analysis, dashboards, business intelligence               |
-| ⚙️ Data Engineering  | ETL pipelines, data processing, scalable data workflows               |
-| ☁️ Cloud Engineering | Cloud data platforms, deployment and scalable architectures           |
-| 🚀 AI Applications   | End-to-end applications from model development to deployment          |
+Currently pursuing a **Master's in Data Science in Germany**, while continuing to strengthen my expertise in machine learning, analytics, cloud engineering, and intelligent data systems.
 
+---
 
-◉ TECHNICAL STACK
-Programming & Data
-<p> <img src="https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/SQL-0B0D12?style=for-the-badge&logo=postgresql&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/Pandas-0B0D12?style=for-the-badge&logo=pandas&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/NumPy-0B0D12?style=for-the-badge&logo=numpy&logoColor=C9A45A"/> </p>
-Machine Learning & AI
-<p> <img src="https://img.shields.io/badge/Scikit--Learn-0B0D12?style=for-the-badge&logo=scikit-learn&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/TensorFlow-0B0D12?style=for-the-badge&logo=tensorflow&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/PyTorch-0B0D12?style=for-the-badge&logo=pytorch&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/OpenCV-0B0D12?style=for-the-badge&logo=opencv&logoColor=C9A45A"/> </p>
-Data Engineering & Cloud
-<p> <img src="https://img.shields.io/badge/Azure-0B0D12?style=for-the-badge&logo=microsoftazure&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/AWS-0B0D12?style=for-the-badge&logo=amazonaws&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/Databricks-0B0D12?style=for-the-badge&logo=databricks&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/PySpark-0B0D12?style=for-the-badge&logo=apachespark&logoColor=C9A45A"/> </p>
-Analytics & Deployment
-<p> <img src="https://img.shields.io/badge/Power%20BI-0B0D12?style=for-the-badge&logo=powerbi&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/Streamlit-0B0D12?style=for-the-badge&logo=streamlit&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/Git-0B0D12?style=for-the-badge&logo=git&logoColor=C9A45A"/> <img src="https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=C9A45A"/> </p>
-◉ FEATURED WORK
-🥗 AI Diet Recommendation System
+# Technical Skills
 
-An intelligent food-analysis application designed to connect computer vision with personalized nutrition insights.
+## Programming & Data
 
-What it does
-Detects food from uploaded images
-Uses deep learning for image classification
-Maps detected food to nutritional information
-Generates diet-oriented recommendations
-Provides an interactive web interface
-Focus
+![Python](https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=C9A45A)
+![SQL](https://img.shields.io/badge/SQL-0B0D12?style=for-the-badge&logo=postgresql&logoColor=C9A45A)
+![Pandas](https://img.shields.io/badge/Pandas-0B0D12?style=for-the-badge&logo=pandas&logoColor=C9A45A)
+![NumPy](https://img.shields.io/badge/NumPy-0B0D12?style=for-the-badge&logo=numpy&logoColor=C9A45A)
 
-Computer Vision · Deep Learning · Nutrition Analytics · Streamlit
+## Machine Learning & AI
 
-Live Application
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0B0D12?style=for-the-badge&logo=scikit-learn&logoColor=C9A45A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0D12?style=for-the-badge&logo=tensorflow&logoColor=C9A45A)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B0D12?style=for-the-badge&logo=pytorch&logoColor=C9A45A)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B0D12?style=for-the-badge&logo=opencv&logoColor=C9A45A)
 
-→ https://pranai-7.streamlit.app/
+## Data Engineering
 
-👥 HR Analytics Dashboard
+![ETL](https://img.shields.io/badge/ETL-0B0D12?style=for-the-badge&logo=apacheairflow&logoColor=C9A45A)
+![PySpark](https://img.shields.io/badge/PySpark-0B0D12?style=for-the-badge&logo=apachespark&logoColor=C9A45A)
+![Databricks](https://img.shields.io/badge/Databricks-0B0D12?style=for-the-badge&logo=databricks&logoColor=C9A45A)
 
-An interactive analytics solution designed to transform workforce data into actionable business insights.
+## Cloud
 
-Focus areas
-Employee analytics
-Workforce trends
-Attrition analysis
-Department-level insights
-Data-driven HR decision support
-Focus
+![AWS](https://img.shields.io/badge/AWS-0B0D12?style=for-the-badge&logo=amazonaws&logoColor=C9A45A)
+![Azure](https://img.shields.io/badge/Azure-0B0D12?style=for-the-badge&logo=microsoftazure&logoColor=C9A45A)
+![Databricks](https://img.shields.io/badge/Databricks-0B0D12?style=for-the-badge&logo=databricks&logoColor=C9A45A)
 
-Python · Data Analytics · Power BI · Business Intelligence
+## Analytics & Visualization
 
-Repository
+![Power BI](https://img.shields.io/badge/Power%20BI-0B0D12?style=for-the-badge&logo=powerbi&logoColor=C9A45A)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B0D12?style=for-the-badge&logo=streamlit&logoColor=C9A45A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B0D12?style=for-the-badge&logo=matplotlib&logoColor=C9A45A)
+![Seaborn](https://img.shields.io/badge/Seaborn-0B0D12?style=for-the-badge&logo=python&logoColor=C9A45A)
 
-→ https://github.com/pranai-777/HR-Analytics-Dashboard
+## Development Tools
 
-🚲 Bike Sharing Demand Dashboard
+![Git](https://img.shields.io/badge/Git-0B0D12?style=for-the-badge&logo=git&logoColor=C9A45A)
+![GitHub](https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=C9A45A)
+![VS Code](https://img.shields.io/badge/VS%20Code-0B0D12?style=for-the-badge&logo=visualstudiocode&logoColor=C9A45A)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B0D12?style=for-the-badge&logo=jupyter&logoColor=C9A45A)
 
-An interactive analytical dashboard exploring the factors that influence bike-sharing demand.
+---
 
-What it demonstrates
-Exploratory data analysis
-Demand patterns
-Time-based trends
-Data visualization
-Interactive dashboard design
-Focus
+# Featured Projects
 
-Python · Pandas · Data Visualization · Streamlit
+## 01 · AI Diet Recommendation System
 
-Repository
+An intelligent food-analysis application combining **computer vision, machine learning, nutrition data, and interactive recommendations**.
 
-→ https://github.com/pranai-777/bike-sharing-streamlit
+### Key Features
 
-📊 Global Job Market & Skills Demand Dashboard
+- Food image recognition
+- Deep learning based classification
+- Food-to-nutrition mapping
+- Nutrition-oriented recommendations
+- Interactive web application
+- End-to-end machine learning workflow
 
-An interactive analysis of the global AI job market, designed to uncover patterns in salary, experience, skills, geography, and industry demand.
+### Technologies
 
-Key analysis
-Salary trends by experience
-Global hiring distribution
-Industry-level demand
-Skills demand
-Experience-level analysis
-Interactive exploration of AI careers
-Focus
+`Python` · `TensorFlow` · `EfficientNetB0` · `Computer Vision` · `Streamlit`
 
-Data Analytics · Python · Streamlit · Visualization · Market Intelligence
+### Live Demo
 
-Repository
+[View Live Application](https://pranai-7.streamlit.app/)
 
-→ https://github.com/pranai-777/Global-Job-Market-Dashboard
+---
 
-◉ PROFESSIONAL JOURNEY
-🎓 MASTER'S IN DATA SCIENCE
+## 02 · HR Analytics Dashboard
 
-March 2025 — February 2027
+An interactive workforce analytics solution designed to transform HR data into meaningful business insights.
 
-University of Europe for Applied Sciences · Germany
+### Key Focus
 
-Advanced focus on machine learning, data engineering, cloud computing, analytics, and intelligent systems.
+- Employee analytics
+- Workforce trends
+- Attrition analysis
+- Department-level insights
+- Data-driven HR decision support
+- Interactive visualizations
 
-🧠 DATA SCIENTIST
+### Technologies
 
-December 2023 — March 2025
+`Python` · `Pandas` · `Data Visualization` · `Power BI` · `Analytics`
 
-Worked on end-to-end data science solutions, combining analytics, machine learning, automation, and business intelligence to solve practical problems.
+### Repository
 
-⚙️ DATA SCIENTIST TRAINEE
+[View Project on GitHub](https://github.com/pranai-777/HR-Analytics-Dashboard)
 
-December 2022 — December 2023
+---
 
-Developed strong foundations in data analysis, Python, SQL, visualization, model development, and real-world data workflows.
+## 03 · Bike Sharing Demand Dashboard
 
-🚀 DATA SCIENTIST INTERN
+An interactive analytical application exploring the factors that influence bike-sharing demand.
 
-February 2022 — October 2022
+### Key Focus
 
-Started the data science journey by working with data preparation, exploratory analysis, reporting, visualization, and automation.
+- Exploratory Data Analysis
+- Demand patterns
+- Time-based analysis
+- Data visualization
+- Interactive dashboards
+- Business-oriented insights
 
-◉ CORE STRENGTHS
-Data Analysis
-       │
-       ├── Python
-       ├── SQL
-       ├── Pandas
-       └── Statistics
+### Technologies
 
-Machine Learning
-       │
-       ├── Scikit-learn
-       ├── Feature Engineering
-       ├── Model Evaluation
-       └── Predictive Analytics
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Streamlit`
 
-AI Engineering
-       │
-       ├── Deep Learning
-       ├── Computer Vision
-       ├── TensorFlow
-       └── PyTorch
+### Repository
 
-Data Engineering
-       │
-       ├── ETL
-       ├── PySpark
-       ├── Databricks
-       └── Data Pipelines
+[View Project on GitHub](https://github.com/pranai-777/bike-sharing-streamlit)
 
-Cloud
-       │
-       ├── AWS
-       ├── Azure
-       ├── Cloud Data Platforms
-       └── Deployment
-◉ ENGINEERING MINDSET
+---
 
-I don't see data science as only a model-building exercise.
+## 04 · Global Job Market & Skills Demand Dashboard
+
+An interactive analysis of the global AI job market, focusing on **salary, experience, skills, countries, industries, and employment trends**.
+
+### Key Insights
+
+- Salary trends by experience level
+- Global AI hiring distribution
+- Industry-level job demand
+- Skills demand analysis
+- Experience-level comparison
+- Interactive market exploration
+
+### Technologies
+
+`Python` · `Pandas` · `Data Visualization` · `Streamlit` · `Analytics`
+
+### Repository
+
+[View Project on GitHub](https://github.com/pranai-777/Global-Job-Market-Dashboard)
+
+---
+
+# Professional Journey
+
+## Data Scientist
+
+**December 2023 — March 2025**
+
+Worked on data-driven solutions involving analytics, machine learning, automation, and business intelligence.
+
+Focused on transforming raw data into actionable insights while contributing to predictive modelling, data workflows, reporting, and decision-support solutions.
+
+---
+
+## Data Scientist Trainee
+
+**December 2022 — December 2023**
+
+Developed practical expertise in Python, SQL, data analysis, visualization, and machine learning through real-world datasets and analytical workflows.
+
+Built dashboards, performed exploratory analysis, prepared datasets, and contributed to model development under professional guidance.
+
+---
+
+## Data Scientist Intern
+
+**February 2022 — October 2022**
+
+Started my professional data science journey by working with data preparation, cleaning, exploratory analysis, reporting, visualization, and automation.
+
+Developed a strong foundation in analytical thinking and learned how to translate raw datasets into meaningful business insights.
+
+---
+
+# Education
+
+## Master's in Data Science
+
+**March 2025 — February 2027**
+
+**University of Europe for Applied Sciences · Germany**
+
+Focus areas:
+
+`Machine Learning` · `Data Engineering` · `Cloud Computing` · `Artificial Intelligence` · `Data Analytics`
+
+---
+
+# My Approach
+
+I believe data science is more than building a model.
 
 My approach is:
 
+```text
 UNDERSTAND
     ↓
 COLLECT
     ↓
 CLEAN
+    ↓
+EXPLORE
     ↓
 ANALYZE
     ↓
@@ -232,33 +235,3 @@ DEPLOY
 MONITOR
     ↓
 IMPROVE
-
-The goal is to build solutions that are not only accurate, but also useful, scalable, explainable, and deployable.
-
-◉ CURRENTLY EXPLORING
-Advanced Machine Learning
-Deep Learning
-Generative AI
-Data Engineering
-Cloud Data Platforms
-MLOps
-Scalable AI Systems
-Production Machine Learning
-Intelligent Data Applications
-◉ PORTFOLIO
-<div align="center">
-Explore the complete interactive portfolio
-<br/> <a href="https://pranai-7.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-C9A45A?style=for-the-badge&logoColor=0B0D12"/> </a> </div>
-◉ CONNECT
-<div align="center">
-LET'S BUILD SOMETHING INTELLIGENT.
-<br/> <a href="mailto:pranaitejasabbe77@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-C9A45A?style=for-the-badge&logo=gmail&logoColor=0B0D12&labelColor=0B0D12"/> </a> <a href="https://www.linkedin.com/in/sabbe-pranai-teja/"> <img src="https://img.shields.io/badge/LINKEDIN-C9A45A?style=for-the-badge&logo=linkedin&logoColor=0B0D12&labelColor=0B0D12"/> </a> <a href="https://github.com/pranai-777"> <img src="https://img.shields.io/badge/GITHUB-C9A45A?style=for-the-badge&logo=github&logoColor=0B0D12&labelColor=0B0D12"/> </a> <br/> <br/>
-
-Pranai Teja Sabbe
-
-DATA × AI × CLOUD
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D12&height=100&section=footer"/>
-© 2026 PRANAI TEJA SABBE
-</div> ```
