@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# PRANAI TEJA SABBE
 
-First, run the development server:
+### DATA SCIENTIST · AI / ML · DATA ENGINEERING · CLOUD
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p>
+  <i>Turning data into intelligence, and intelligence into impact.</i>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br/>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<a href="https://pranai-7.streamlit.app/">
+  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-C9A45A?style=for-the-badge&logo=vercel&logoColor=0B0D12&labelColor=0B0D12" />
+</a>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<a href="https://www.linkedin.com/in/sabbe-pranai-teja/">
+  <img src="https://img.shields.io/badge/LINKEDIN-C9A45A?style=for-the-badge&logo=linkedin&logoColor=0B0D12&labelColor=0B0D12" />
+</a>
 
-## Learn More
+<a href="https://github.com/pranai-777">
+  <img src="https://img.shields.io/badge/GITHUB-C9A45A?style=for-the-badge&logo=github&logoColor=0B0D12&labelColor=0B0D12" />
+</a>
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D12&height=100&section=header"/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+</div>
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ◉ ABOUT
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+I am a **Data Scientist and Data Engineering professional** focused on building intelligent, scalable, and production-oriented data solutions.
+
+My work sits at the intersection of:
+
+```text
+DATA
+  ↓
+ANALYTICS
+  ↓
+MACHINE LEARNING
+  ↓
+AI ENGINEERING
+  ↓
+CLOUD
+  ↓
+BUSINESS IMPACT
