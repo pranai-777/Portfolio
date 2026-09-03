@@ -64,7 +64,7 @@ export default function ProjectsShowcase() {
       category: "DATA ANALYTICS / MARKET INTELLIGENCE",
       title: "GLOBAL AI JOB\nMARKET & SKILLS\nDEMAND",
       description:
-        "An interactive analysis of the global AI job market, exploring salaries, experience levels, hiring locations, industries and in-demand skills to reveal patterns across the evolving AI employment landscape.",
+        "An analysis of the global AI job market, exploring salaries, experience levels, hiring locations, industries and in-demand skills to reveal patterns across the evolving AI employment landscape.",
       technologies: [
         "PYTHON",
         "PANDAS",
