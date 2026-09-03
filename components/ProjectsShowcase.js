@@ -72,8 +72,8 @@ export default function ProjectsShowcase() {
         "DATA VISUALIZATION",
         "ANALYTICS",
       ],
-      type: "GITHUB",
-      link: "https://github.com/pranai-777/Global-Job-Market-Dashboard",
+      type:  "LIVE DEMO",
+      link: "global-job-market-dashboard.streamlit.app/",
     },
   ];
 
