@@ -73,7 +73,7 @@ export default function ProjectsShowcase() {
         "ANALYTICS",
       ],
       type:  "LIVE DEMO",
-      link: "global-job-market-dashboard.streamlit.app/",
+      link: "https://global-job-market-dashboard.streamlit.app/",
     },
   ];
 
