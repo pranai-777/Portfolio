@@ -24,26 +24,8 @@ export default function ProjectsShowcase() {
       type: "LIVE DEMO",
       link: "https://pranai-7.streamlit.app/",
     },
-
     {
       number: "02",
-      category: "DATA ANALYTICS / BUSINESS INTELLIGENCE",
-      title: "HR ANALYTICS\nDASHBOARD",
-      description:
-        "An interactive workforce analytics solution that transforms HR data into actionable insights, helping decision-makers understand employee trends, workforce patterns and key organizational metrics.",
-      technologies: [
-        "PYTHON",
-        "PANDAS",
-        "SQL",
-        "POWER BI",
-        "DATA VISUALIZATION",
-      ],
-      type: "GITHUB",
-      link: "https://github.com/pranai-777/HR-Analytics-Dashboard",
-    },
-
-    {
-      number: "03",
       category: "DATA ANALYTICS / PREDICTIVE INSIGHTS",
       title: "BIKE SHARING\nDEMAND\nDASHBOARD",
       description:
@@ -55,12 +37,12 @@ export default function ProjectsShowcase() {
         "SEABORN",
         "STREAMLIT",
       ],
-      type: "GITHUB",
-      link: "https://github.com/pranai-777/bike-sharing-streamlit",
+      type: "LIVE DEMO",
+      link: "https://bike-sharing-demand-dashboard.streamlit.app/",
     },
 
     {
-      number: "04",
+      number: "03",
       category: "DATA ANALYTICS / MARKET INTELLIGENCE",
       title: "GLOBAL AI JOB\nMARKET & SKILLS\nDEMAND",
       description:
@@ -74,6 +56,22 @@ export default function ProjectsShowcase() {
       ],
       type:  "LIVE DEMO",
       link: "https://global-job-market-dashboard.streamlit.app/",
+    },
+    {
+      number: "04",
+      category: "DATA ANALYTICS / BUSINESS INTELLIGENCE",
+      title: "HR ANALYTICS\nDASHBOARD",
+      description:
+        "An interactive workforce analytics solution that transforms HR data into actionable insights, helping decision-makers understand employee trends, workforce patterns and key organizational metrics.",
+      technologies: [
+        "PYTHON",
+        "PANDAS",
+        "SQL",
+        "POWER BI",
+        "DATA VISUALIZATION",
+      ],
+      type: "GITHUB",
+      link: "https://github.com/pranai-777/HR-Analytics-Dashboard",
     },
   ];
 
