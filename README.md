@@ -217,28 +217,28 @@ My approach is:
 
 ```text
 UNDERSTAND
-    ↓
+   ↓
 COLLECT
-    ↓
+   ↓
 CLEAN
-    ↓
+   ↓
 EXPLORE
-    ↓
+   ↓
 ANALYZE
-    ↓
+   ↓
 MODEL
-    ↓
+   ↓
 EVALUATE
-    ↓
+   ↓
 DEPLOY
-    ↓
+   ↓
 MONITOR
-
+   ↓
+IMPROVE
 -----
 
 **PRANAI TEJA SABBE
 DATA SCIENTIST | AI ENGINEER | CLOUD ENGINEER
 
 © 2026 Pranai Teja Sabbe**
-    ↓
-IMPROVE
+    
