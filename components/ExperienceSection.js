@@ -288,12 +288,10 @@ export default function ExperienceSection() {
               </span>
 
               <span>
-                FEB 2027
+                PRESENT
               </span>
 
-              <small>
-                PRESENT
-              </small>
+             
             </div>
 
 
@@ -317,7 +315,7 @@ export default function ExperienceSection() {
               </h3>
 
               <div className="experience-meta">
-                March 2025 — February 2027
+                March 2025 — Present
                 <span>•</span>
                 University of Europe for Applied Sciences
               </div>
@@ -383,7 +381,7 @@ export default function ExperienceSection() {
 
               <p>
                 Designed and developed data-driven solutions
-                that transformed complex datasets into actionable
+                that transformed datasets into actionable
                 business insights. Worked across predictive
                 modelling, data preparation, automation and
                 analytics while translating technical results
